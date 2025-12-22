@@ -64,11 +64,6 @@ This project implements a full deep learning pipeline for **oral cavity image cl
 | ConvNeXt        | **74.3**    | **69.8**     |
 
 
-## **Future Work**
-
-* Integrate stronger segmentation models (SAM, Mask2Former) for cleaner ROI extraction
-* Incorporate interpretability tools such as GradCAM++, Score-CAM etc.. improving model transparency for OPMD/OCA diagnosis in clinical settings
-* Optimize models for mobile/edge deployment.
 
 
 #### **Dataset**
