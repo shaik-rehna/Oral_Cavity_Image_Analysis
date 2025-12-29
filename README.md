@@ -4,6 +4,12 @@
 ---
 This project implements a full deep learning pipeline for **oral cavity image classification** using the **Piyarathne et al. Oral Cavity dataset**. The goal is to classify images into **Healthy**, **OCA**, and **OPMD** categories using modern CNN and Transformer-based architectures.
 
+#### **Dataset**
+
+N.S. Piyarathne, S.N. Liyanage, R.M.S.G.K. Rasnayaka, P.V.K.S. Hettiarachchi, G.A.I. Devindi, F.B.A.H. Francis, D.M.D.R. Dissanayake, R.A.N.S. Ranasinghe, M.B.D. Pavithya, I.B. Nawinne, R.G. Ragel, R.D. Jayasinghe, “A comprehensive dataset of annotated oral cavity images for diagnosis of oral cancer and oral potentially malignant disorders,” Oral Oncology, vol. 156, p. 106946, 2024. (https://doi.org/10.1016/j.oraloncology.2024.106946)
+
+
+
 ## **Overview**
 
 * Built a complete pipeline for **data preprocessing** and **image classification**.
@@ -62,13 +68,6 @@ This project implements a full deep learning pipeline for **oral cavity image cl
 | EfficientNet-B3 | 68.4        | 63.1         |
 | ViT-b-16        | 67.9        | 68.0         |
 | ConvNeXt        | **74.3**    | **69.8**     |
-
-
-
-
-#### **Dataset**
-
-N.S. Piyarathne, S.N. Liyanage, R.M.S.G.K. Rasnayaka, P.V.K.S. Hettiarachchi, G.A.I. Devindi, F.B.A.H. Francis, D.M.D.R. Dissanayake, R.A.N.S. Ranasinghe, M.B.D. Pavithya, I.B. Nawinne, R.G. Ragel, R.D. Jayasinghe, “A comprehensive dataset of annotated oral cavity images for diagnosis of oral cancer and oral potentially malignant disorders,” Oral Oncology, vol. 156, p. 106946, 2024. (https://doi.org/10.1016/j.oraloncology.2024.106946)
 
 
 
