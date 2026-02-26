@@ -1,4 +1,4 @@
-# Automated Oral Cavity Image Classification 
+# Oral Cavity Image Analysis 
 ### DH 307 R&amp;D Project, IIT Bombay
 #### Guide: [Prof. Nirmal Punjabi](https://www.kcdh.iitb.ac.in/people/faculty/kcdh-faculty), IIT Bombay
 ---
